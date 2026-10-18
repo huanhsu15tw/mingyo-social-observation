@@ -1,0 +1,8 @@
+# System & temp files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Heavy original screen recording (web version in assets/video/video_fb_bot_injection.mp4 is tracked)
+*.mov
